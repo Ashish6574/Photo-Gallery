@@ -1,0 +1,5 @@
+2021-10-29 14:51:30 | Logs Cleared : by User ID 1
+2021-10-29 14:54:38 | Login: rs007 logged in
+2021-10-29 15:00:03 | Login: Chirag logged in
+2021-10-29 15:00:58 | Login: ap6574 logged in
+2021-10-30 11:08:14 | Login: ap6574 logged in
